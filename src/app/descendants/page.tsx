@@ -17,11 +17,10 @@ export default async function Descendants() {
                     <h1>Descendants</h1>
                 </div>
 
-                <ul className="border-t border-b border-black flex flex-row">
+                <ul className="border-t border-b border-black flex flex-row flex-wrap justify-between gap-4">
                     {descendants.map((d) => (
-                        <li key={d.id} className="flex items-center justify-between px-5">
+                        <li key={d.id} className="flex items-center justify-between px-5 border rounded-lg shadow-blue-600 shadow-lg">
                             <Link href={`/descendants/${d.slug}`}>
-                                <h2>{d.descendant_name}</h2>
                                 <img src={d.descendant_img} alt="" />
                             </Link>
                         </li>
