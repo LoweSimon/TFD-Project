@@ -13,5 +13,8 @@ datasource db {
 model Descendants {
   id              String @id @default(cuid())
   descendant_name String @unique
+  slug            String @unique
   descendant_img  String
+
+  @@index([slug])
 }

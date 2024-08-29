@@ -3,7 +3,11 @@ import prisma from '@/lib/db';
 
 export default async function Descendants() {
 
-    const descendants = await prisma.descendants.findMany();
+    const descendants = await prisma.descendants.findMany({
+        orderBy: {
+            descendant_name: "asc"
+        }
+    });
 
     return (
         <>
@@ -16,7 +20,7 @@ export default async function Descendants() {
                 <ul className="border-t border-b border-black flex flex-row">
                     {descendants.map((d) => (
                         <li key={d.id} className="flex items-center justify-between px-5">
-                            <Link href={`/descendants/${d.descendant_name}`}>
+                            <Link href={`/descendants/${d.slug}`}>
                                 <h2>{d.descendant_name}</h2>
                                 <img src={d.descendant_img} alt="" />
                             </Link>

@@ -5,7 +5,7 @@ export default async function SingleDescendant({ params }) {
 
     const descendants = await prisma.descendants.findUnique({
         where: {
-            descendant_name: params.descendant_name,
+            slug: params.slug,
         }
     });
 
