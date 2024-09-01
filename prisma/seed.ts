@@ -23160,7 +23160,6 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                             {
                                 max_hp: "Max HP",
                                 hp_value: 587,
-                            {
                                 max_shield: "Max Shield",
                                 shield_value: 292,
                                 max_mp: "Max MP",
