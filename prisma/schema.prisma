@@ -17,6 +17,7 @@ model Descendants {
   descendant_img  String
   skills          DescendantSkills[]
   levels          DescendantLevels[]
+  descendantStats DescendantStats[]
 
   @@index([slug])
 }
@@ -57,4 +58,6 @@ model DescendantStats {
   in_combat_value               Int
   DescendantLevels              DescendantLevels? @relation(fields: [descendantLevelsId], references: [id])
   descendantLevelsId            String?
+  Descendants                   Descendants?      @relation(fields: [descendantsId], references: [id])
+  descendantsId                 String?
 }
