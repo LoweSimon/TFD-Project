@@ -16426,7 +16426,7 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                 ]
         }
     },
-    ,
+    {
         id: "101000014",
         descendant_name: "Kyle",
         slug: "kyle",
