@@ -15544,25 +15544,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 186
-                            },
-                            {
+                                hp_value: 186,
                                 max_shield: "Max Shield",
-                                shield_value: 62
-                            },
-                            {
+                                shield_value: 62,
                                 max_mp: "Max MP",
-                                mp_value: 130
-                            },
-                            {
+                                mp_value: 130,
                                 def: "DEF",
-                                def_value: 192
-                            },
-                            {
+                                def_value: 192,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.46
-                            },
-                            {
+                                out_of_combat_value: 0.46,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.38
                             }
@@ -15575,25 +15565,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 188
-                            },
-                            {
+                                hp_value: 188,
                                 max_shield: "Max Shield",
-                                shield_value: 66
-                            },
-                            {
+                                shield_value: 66,
                                 max_mp: "Max MP",
-                                mp_value: 131
-                            },
-                            {
+                                mp_value: 131,
                                 def: "DEF",
-                                def_value: 194
-                            },
-                            {
+                                def_value: 194,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.46
-                            },
-                            {
+                                out_of_combat_value: 0.46,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.38
                             }
@@ -15606,25 +15586,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 192
-                            },
-                            {
+                                hp_value: 192,
                                 max_shield: "Max Shield",
-                                shield_value: 68
-                            },
-                            {
+                                shield_value: 68,
                                 max_mp: "Max MP",
-                                mp_value: 132
-                            },
-                            {
+                                mp_value: 132,
                                 def: "DEF",
-                                def_value: 198
-                            },
-                            {
+                                def_value: 198,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.46
-                            },
-                            {
+                                out_of_combat_value: 0.46,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.38
                             }
@@ -15637,25 +15607,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 196
-                            },
-                            {
+                                hp_value: 196,
                                 max_shield: "Max Shield",
-                                shield_value: 71
-                            },
-                            {
+                                shield_value: 71,
                                 max_mp: "Max MP",
-                                mp_value: 134
-                            },
-                            {
+                                mp_value: 134,
                                 def: "DEF",
-                                def_value: 203
-                            },
-                            {
+                                def_value: 203,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.48
-                            },
-                            {
+                                out_of_combat_value: 0.48,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.4
                             }
@@ -15668,25 +15628,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 202
-                            },
-                            {
+                                hp_value: 202,
                                 max_shield: "Max Shield",
-                                shield_value: 76
-                            },
-                            {
+                                shield_value: 76,
                                 max_mp: "Max MP",
-                                mp_value: 135
-                            },
-                            {
+                                mp_value: 135,
                                 def: "DEF",
-                                def_value: 209
-                            },
-                            {
+                                def_value: 209,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.53
-                            },
-                            {
+                                out_of_combat_value: 0.53,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.44
                             }
@@ -15699,25 +15649,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 210
-                            },
-                            {
+                                hp_value: 210,
                                 max_shield: "Max Shield",
-                                shield_value: 80
-                            },
-                            {
+                                shield_value: 80,
                                 max_mp: "Max MP",
-                                mp_value: 136
-                            },
-                            {
+                                mp_value: 136,
                                 def: "DEF",
-                                def_value: 217
-                            },
-                            {
+                                def_value: 217,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.55
-                            },
-                            {
+                                out_of_combat_value: 0.55,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.46
                             }
@@ -15730,25 +15670,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 217
-                            },
-                            {
+                                hp_value: 217,
                                 max_shield: "Max Shield",
-                                shield_value: 85
-                            },
-                            {
+                                shield_value: 85,
                                 max_mp: "Max MP",
-                                mp_value: 137
-                            },
-                            {
+                                mp_value: 137,
                                 def: "DEF",
-                                def_value: 227
-                            },
-                            {
+                                def_value: 227,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.6
-                            },
-                            {
+                                out_of_combat_value: 0.6,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.5
                             }
@@ -15761,25 +15691,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 227
-                            },
-                            {
+                                hp_value: 227,
                                 max_shield: "Max Shield",
-                                shield_value: 90
-                            },
-                            {
+                                shield_value: 90,
                                 max_mp: "Max MP",
-                                mp_value: 138
-                            },
-                            {
+                                mp_value: 138,
                                 def: "DEF",
-                                def_value: 242
-                            },
-                            {
+                                def_value: 242,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.65
-                            },
-                            {
+                                out_of_combat_value: 0.65,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.54
                             }
@@ -15792,25 +15712,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 242
-                            },
-                            {
+                                hp_value: 242,
                                 max_shield: "Max Shield",
-                                shield_value: 96
-                            },
-                            {
+                                shield_value: 96,
                                 max_mp: "Max MP",
-                                mp_value: 139
-                            },
-                            {
+                                mp_value: 139,
                                 def: "DEF",
-                                def_value: 261
-                            },
-                            {
+                                def_value: 261,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.7
-                            },
-                            {
+                                out_of_combat_value: 0.7,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.58
                             }
@@ -15823,25 +15733,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 257
-                            },
-                            {
+                                hp_value: 257,
                                 max_shield: "Max Shield",
-                                shield_value: 102
-                            },
-                            {
+                                shield_value: 102,
                                 max_mp: "Max MP",
-                                mp_value: 141
-                            },
-                            {
+                                mp_value: 141,
                                 def: "DEF",
-                                def_value: 286
-                            },
-                            {
+                                def_value: 286,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.74
-                            },
-                            {
+                                out_of_combat_value: 0.74,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.62
                             }
@@ -15854,25 +15754,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 276
-                            },
-                            {
+                                hp_value: 276,
                                 max_shield: "Max Shield",
-                                shield_value: 109
-                            },
-                            {
+                                shield_value: 109,
                                 max_mp: "Max MP",
-                                mp_value: 142
-                            },
-                            {
+                                mp_value: 142,
                                 def: "DEF",
-                                def_value: 316
-                            },
-                            {
+                                def_value: 316,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.82
-                            },
-                            {
+                                out_of_combat_value: 0.82,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.68
                             }
@@ -15885,25 +15775,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 296
-                            },
-                            {
+                                hp_value: 296,
                                 max_shield: "Max Shield",
-                                shield_value: 117
-                            },
-                            {
+                                shield_value: 117,
                                 max_mp: "Max MP",
-                                mp_value: 144
-                            },
-                            {
+                                mp_value: 144,
                                 def: "DEF",
-                                def_value: 329
-                            },
-                            {
+                                def_value: 329,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.86
-                            },
-                            {
+                                out_of_combat_value: 0.86,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.72
                             }
@@ -15916,25 +15796,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 319
-                            },
-                            {
+                                hp_value: 319,
                                 max_shield: "Max Shield",
-                                shield_value: 126
-                            },
-                            {
+                                shield_value: 126,
                                 max_mp: "Max MP",
-                                mp_value: 147
-                            },
-                            {
+                                mp_value: 147,
                                 def: "DEF",
-                                def_value: 366
-                            },
-                            {
+                                def_value: 366,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.94
-                            },
-                            {
+                                out_of_combat_value: 0.94,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.78
                             }
@@ -15947,25 +15817,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 348
-                            },
-                            {
+                                hp_value: 348,
                                 max_shield: "Max Shield",
-                                shield_value: 137
-                            },
-                            {
+                                shield_value: 137,
                                 max_mp: "Max MP",
-                                mp_value: 149
-                            },
-                            {
+                                mp_value: 149,
                                 def: "DEF",
-                                def_value: 403
-                            },
-                            {
+                                def_value: 403,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.03
-                            },
-                            {
+                                out_of_combat_value: 1.03,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.86
                             }
@@ -15978,25 +15838,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 372
-                            },
-                            {
+                                hp_value: 372,
                                 max_shield: "Max Shield",
-                                shield_value: 147
-                            },
-                            {
+                                shield_value: 147,
                                 max_mp: "Max MP",
-                                mp_value: 151
-                            },
-                            {
+                                mp_value: 151,
                                 def: "DEF",
-                                def_value: 443
-                            },
-                            {
+                                def_value: 443,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.08
-                            },
-                            {
+                                out_of_combat_value: 1.08,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.9
                             }
@@ -16009,25 +15859,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 400
-                            },
-                            {
+                                hp_value: 400,
                                 max_shield: "Max Shield",
-                                shield_value: 158
-                            },
-                            {
+                                shield_value: 158,
                                 max_mp: "Max MP",
-                                mp_value: 154
-                            },
-                            {
+                                mp_value: 154,
                                 def: "DEF",
-                                def_value: 484
-                            },
-                            {
+                                def_value: 484,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.18
-                            },
-                            {
+                                out_of_combat_value: 1.18,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.98
                             }
@@ -16040,25 +15880,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 429
-                            },
-                            {
+                                hp_value: 429,
                                 max_shield: "Max Shield",
-                                shield_value: 169
-                            },
-                            {
+                                shield_value: 169,
                                 max_mp: "Max MP",
-                                mp_value: 156
-                            },
-                            {
+                                mp_value: 156,
                                 def: "DEF",
-                                def_value: 527
-                            },
-                            {
+                                def_value: 527,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.25
-                            },
-                            {
+                                out_of_combat_value: 1.25,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.04
                             }
@@ -16071,25 +15901,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 457
-                            },
-                            {
+                                hp_value: 457,
                                 max_shield: "Max Shield",
-                                shield_value: 181
-                            },
-                            {
+                                shield_value: 181,
                                 max_mp: "Max MP",
-                                mp_value: 158
-                            },
-                            {
+                                mp_value: 158,
                                 def: "DEF",
-                                def_value: 572
-                            },
-                            {
+                                def_value: 572,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.34
-                            },
-                            {
+                                out_of_combat_value: 1.34,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.12
                             }
@@ -16102,25 +15922,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 491
-                            },
-                            {
+                                hp_value: 491,
                                 max_shield: "Max Shield",
-                                shield_value: 194
-                            },
-                            {
+                                shield_value: 194,
                                 max_mp: "Max MP",
-                                mp_value: 161
-                            },
-                            {
+                                mp_value: 161,
                                 def: "DEF",
-                                def_value: 618
-                            },
-                            {
+                                def_value: 618,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.44
-                            },
-                            {
+                                out_of_combat_value: 1.44,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.2
                             }
@@ -16133,25 +15943,16 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 519
-                            },
-                            {
+                                hp_value: 519,
                                 max_shield: "Max Shield",
-                                shield_value: 205
-                            },
-                            {
+                                shield_value: 205,
                                 max_mp: "Max MP",
-                                mp_value: 163
-                            },
+                                mp_value: 163,
                             {
                                 def: "DEF",
-                                def_value: 666
-                            },
-                            {
+                                def_value: 666,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.54
-                            },
-                            {
+                                out_of_combat_value: 1.54,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.28
                             }
@@ -16164,25 +15965,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 552
-                            },
-                            {
+                                hp_value: 552,
                                 max_shield: "Max Shield",
-                                shield_value: 218
-                            },
-                            {
+                                shield_value: 218,
                                 max_mp: "Max MP",
-                                mp_value: 165
-                            },
-                            {
+                                mp_value: 165,
                                 def: "DEF",
-                                def_value: 716
-                            },
-                            {
+                                def_value: 716,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.63
-                            },
-                            {
+                                out_of_combat_value: 1.63,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.36
                             }
@@ -16195,25 +15986,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 586
-                            },
-                            {
+                                hp_value: 586,
                                 max_shield: "Max Shield",
-                                shield_value: 231
-                            },
-                            {
+                                shield_value: 231,
                                 max_mp: "Max MP",
-                                mp_value: 169
-                            },
-                            {
+                                mp_value: 169,
                                 def: "DEF",
-                                def_value: 767
-                            },
-                            {
+                                def_value: 767,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.73
-                            },
-                            {
+                                out_of_combat_value: 1.73,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.44
                             }
@@ -16226,25 +16007,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 619
-                            },
-                            {
+                                hp_value: 619,
                                 max_shield: "Max Shield",
-                                shield_value: 245
-                            },
-                            {
+                                shield_value: 245,
                                 max_mp: "Max MP",
-                                mp_value: 173
-                            },
-                            {
+                                mp_value: 173,
                                 def: "DEF",
-                                def_value: 820
-                            },
-                            {
+                                def_value: 820,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.82
-                            },
-                            {
+                                out_of_combat_value: 1.82,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.52
                             }
@@ -16257,25 +16028,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 662
-                            },
-                            {
+                                hp_value: 662,
                                 max_shield: "Max Shield",
-                                shield_value: 262
-                            },
-                            {
+                                shield_value: 262,
                                 max_mp: "Max MP",
-                                mp_value: 176
-                            },
-                            {
+                                mp_value: 176,
                                 def: "DEF",
-                                def_value: 875
-                            },
-                            {
+                                def_value: 875,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.94
-                            },
-                            {
+                                out_of_combat_value: 1.94,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.62
                             }
@@ -16288,25 +16049,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 695
-                            },
-                            {
+                                hp_value: 695,
                                 max_shield: "Max Shield",
-                                shield_value: 274
-                            },
-                            {
+                                shield_value: 274,
                                 max_mp: "Max MP",
-                                mp_value: 180
-                            },
-                            {
+                                mp_value: 180,
                                 def: "DEF",
-                                def_value: 931
-                            },
-                            {
+                                def_value: 931,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 2.04
-                            },
-                            {
+                                out_of_combat_value: 2.04,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.7
                             }
@@ -16319,25 +16070,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 733
-                            },
-                            {
+                                hp_value: 733,
                                 max_shield: "Max Shield",
-                                shield_value: 289
-                            },
-                            {
+                                shield_value: 289,
                                 max_mp: "Max MP",
-                                mp_value: 183
-                            },
-                            {
+                                mp_value: 183,
                                 def: "DEF",
-                                def_value: 989
-                            },
-                            {
+                                def_value: 989,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 2.16
-                            },
-                            {
+                                out_of_combat_value: 2.16,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.8
                             }
@@ -16350,25 +16091,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 771
-                            },
-                            {
+                                hp_value: 771,
                                 max_shield: "Max Shield",
-                                shield_value: 304
-                            },
-                            {
+                                shield_value: 304,
                                 max_mp: "Max MP",
-                                mp_value: 187
-                            },
-                            {
+                                mp_value: 187,
                                 def: "DEF",
-                                def_value: 1048
-                            },
-                            {
+                                def_value: 1048,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 2.26
-                            },
-                            {
+                                out_of_combat_value: 2.26,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.88
                             }
@@ -16381,25 +16112,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 814
-                            },
-                            {
+                                hp_value: 814,
                                 max_shield: "Max Shield",
-                                shield_value: 321
-                            },
-                            {
+                                shield_value: 321,
                                 max_mp: "Max MP",
-                                mp_value: 190
-                            },
-                            {
+                                mp_value: 190,
                                 def: "DEF",
-                                def_value: 1110
-                            },
-                            {
+                                def_value: 1110,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 2.4
-                            },
-                            {
+                                out_of_combat_value: 2.4,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2
                             }
@@ -16412,25 +16133,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 852
-                            },
-                            {
+                                hp_value: 852,
                                 max_shield: "Max Shield",
-                                shield_value: 336
-                            },
-                            {
+                                shield_value: 336,
                                 max_mp: "Max MP",
-                                mp_value: 194
-                            },
-                            {
+                                mp_value: 194,
                                 def: "DEF",
-                                def_value: 1173
-                            },
-                            {
+                                def_value: 1173,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 2.5
-                            },
-                            {
+                                out_of_combat_value: 2.5,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2.08
                             }
@@ -16443,25 +16154,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 890
-                            },
-                            {
+                                hp_value: 890,
                                 max_shield: "Max Shield",
-                                shield_value: 351
-                            },
-                            {
+                                shield_value: 351,
                                 max_mp: "Max MP",
-                                mp_value: 197
-                            },
-                            {
+                                mp_value: 197,
                                 def: "DEF",
-                                def_value: 1238
-                            },
-                            {
+                                def_value: 1238,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 2.64
-                            },
-                            {
+                                out_of_combat_value: 2.64,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2.2
                             }
@@ -16474,25 +16175,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 938
-                            },
-                            {
+                                hp_value: 938,
                                 max_shield: "Max Shield",
-                                shield_value: 370
-                            },
-                            {
+                                shield_value: 370,
                                 max_mp: "Max MP",
-                                mp_value: 201
-                            },
-                            {
+                                mp_value: 201,
                                 def: "DEF",
-                                def_value: 1304
-                            },
-                            {
+                                def_value: 1304,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 2.76
-                            },
-                            {
+                                out_of_combat_value: 2.76,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2.3
                             }
@@ -16505,25 +16196,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 976
-                            },
-                            {
+                                hp_value: 976,
                                 max_shield: "Max Shield",
-                                shield_value: 385
-                            },
-                            {
+                                shield_value: 385,
                                 max_mp: "Max MP",
-                                mp_value: 206
-                            },
-                            {
+                                mp_value: 206,
                                 def: "DEF",
-                                def_value: 1372
-                            },
-                            {
+                                def_value: 1372,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 2.88
-                            },
-                            {
+                                out_of_combat_value: 2.88,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2.4
                             }
@@ -16536,25 +16217,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 1024
-                            },
-                            {
+                                hp_value: 1024,
                                 max_shield: "Max Shield",
-                                shield_value: 404
-                            },
-                            {
+                                shield_value: 404,
                                 max_mp: "Max MP",
-                                mp_value: 210
-                            },
-                            {
+                                mp_value: 210,
                                 def: "DEF",
-                                def_value: 1442
-                            },
-                            {
+                                def_value: 1442,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 3
-                            },
-                            {
+                                out_of_combat_value: 3,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2.5
                             }
@@ -16567,25 +16238,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 1066
-                            },
-                            {
+                                hp_value: 1066,
                                 max_shield: "Max Shield",
-                                shield_value: 421
-                            },
-                            {
+                                shield_value: 421,
                                 max_mp: "Max MP",
-                                mp_value: 215
-                            },
-                            {
+                                mp_value: 215,
                                 def: "DEF",
-                                def_value: 1513
-                            },
-                            {
+                                def_value: 1513,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 3.14
-                            },
-                            {
+                                out_of_combat_value: 3.14,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2.62
                             }
@@ -16598,25 +16259,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 1114
-                            },
-                            {
+                                hp_value: 1114,
                                 max_shield: "Max Shield",
-                                shield_value: 440
-                            },
-                            {
+                                shield_value: 440,
                                 max_mp: "Max MP",
-                                mp_value: 220
-                            },
-                            {
+                                mp_value: 220,
                                 def: "DEF",
-                                def_value: 1586
-                            },
-                            {
+                                def_value: 1586,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 3.26
-                            },
-                            {
+                                out_of_combat_value: 3.26,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2.72
                             }
@@ -16629,25 +16280,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 1157
-                            },
-                            {
+                                hp_value: 1157,
                                 max_shield: "Max Shield",
-                                shield_value: 456
-                            },
-                            {
+                                shield_value: 456,
                                 max_mp: "Max MP",
-                                mp_value: 225
-                            },
-                            {
+                                mp_value: 225,
                                 def: "DEF",
-                                def_value: 1660
-                            },
-                            {
+                                def_value: 1660,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 3.41
-                            },
-                            {
+                                out_of_combat_value: 3.41,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2.84
                             }
@@ -16660,25 +16301,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 1204
-                            },
-                            {
+                                hp_value: 1204,
                                 max_shield: "Max Shield",
-                                shield_value: 475
-                            },
-                            {
+                                shield_value: 475,
                                 max_mp: "Max MP",
-                                mp_value: 229
-                            },
-                            {
+                                mp_value: 229,
                                 def: "DEF",
-                                def_value: 1737
-                            },
-                            {
+                                def_value: 1737,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 3.53
-                            },
-                            {
+                                out_of_combat_value: 3.53,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2.94
                             }
@@ -16691,25 +16322,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 1252
-                            },
-                            {
+                                hp_value: 1252,
                                 max_shield: "Max Shield",
-                                shield_value: 494
-                            },
-                            {
+                                shield_value: 494,
                                 max_mp: "Max MP",
-                                mp_value: 234
-                            },
-                            {
+                                mp_value: 234,
                                 def: "DEF",
-                                def_value: 1815
-                            },
-                            {
+                                def_value: 1815,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 3.67
-                            },
-                            {
+                                out_of_combat_value: 3.67,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 3.06
                             }
@@ -16722,25 +16343,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 1300
-                            },
-                            {
+                                hp_value: 1300,
                                 max_shield: "Max Shield",
-                                shield_value: 513
-                            },
-                            {
+                                shield_value: 513,
                                 max_mp: "Max MP",
-                                mp_value: 239
-                            },
-                            {
+                                mp_value: 239,
                                 def: "DEF",
-                                def_value: 1895
-                            },
-                            {
+                                def_value: 1895,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 3.82
-                            },
-                            {
+                                out_of_combat_value: 3.82,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 3.18
                             }
@@ -16753,25 +16364,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 1347
-                            },
-                            {
+                                hp_value: 1347,
                                 max_shield: "Max Shield",
-                                shield_value: 531
-                            },
-                            {
+                                shield_value: 531,
                                 max_mp: "Max MP",
-                                mp_value: 243
-                            },
-                            {
+                                mp_value: 243,
                                 def: "DEF",
-                                def_value: 1976
-                            },
-                            {
+                                def_value: 1976,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 3.96
-                            },
-                            {
+                                out_of_combat_value: 3.96,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 3.3
                             }
@@ -16825,7 +16426,7 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                 ]
         }
     },
-    {
+    ,
         id: "101000014",
         descendant_name: "Kyle",
         slug: "kyle",
@@ -16838,25 +16439,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 184
-                            },
-                            {
+                                hp_value: 184,
                                 max_shield: "Max Shield",
-                                shield_value: 138
-                            },
-                            {
+                                shield_value: 138,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 217
-                            },
-                            {
+                                def_value: 217,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.35
-                            },
-                            {
+                                out_of_combat_value: 0.35,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.29
                             }
@@ -16869,25 +16460,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 186
-                            },
-                            {
+                                hp_value: 186,
                                 max_shield: "Max Shield",
-                                shield_value: 140
-                            },
-                            {
+                                shield_value: 140,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 219
-                            },
-                            {
+                                def_value: 219,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.36
-                            },
-                            {
+                                out_of_combat_value: 0.36,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.3
                             }
@@ -16900,25 +16481,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 190
-                            },
-                            {
+                                hp_value: 190,
                                 max_shield: "Max Shield",
-                                shield_value: 143
-                            },
-                            {
+                                shield_value: 143,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 223
-                            },
-                            {
+                                def_value: 223,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.37
-                            },
-                            {
+                                out_of_combat_value: 0.37,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.31
                             }
@@ -16931,25 +16502,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 194
-                            },
-                            {
+                                hp_value: 194,
                                 max_shield: "Max Shield",
-                                shield_value: 146
-                            },
-                            {
+                                shield_value: 146,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 229
-                            },
-                            {
+                                def_value: 229,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.4
-                            },
-                            {
+                                out_of_combat_value: 0.4,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.33
                             }
@@ -16962,25 +16523,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 200
-                            },
-                            {
+                                hp_value: 200,
                                 max_shield: "Max Shield",
-                                shield_value: 150
-                            },
-                            {
+                                shield_value: 150,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 236
-                            },
-                            {
+                                def_value: 236,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.42
-                            },
-                            {
+                                out_of_combat_value: 0.42,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.35
                             }
@@ -16993,25 +16544,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 207
-                            },
-                            {
+                                hp_value: 207,
                                 max_shield: "Max Shield",
-                                shield_value: 155
-                            },
-                            {
+                                shield_value: 155,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 246
-                            },
-                            {
+                                def_value: 246,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.46
-                            },
-                            {
+                                out_of_combat_value: 0.46,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.38
                             }
@@ -17024,25 +16565,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 214
-                            },
-                            {
+                                hp_value: 214,
                                 max_shield: "Max Shield",
-                                shield_value: 162
-                            },
-                            {
+                                shield_value: 162,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 261
-                            },
-                            {
+                                def_value: 261,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.48
-                            },
-                            {
+                                out_of_combat_value: 0.48,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.4
                             }
@@ -17055,25 +16586,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 224
-                            },
-                            {
+                                hp_value: 224,
                                 max_shield: "Max Shield",
-                                shield_value: 171
-                            },
-                            {
+                                shield_value: 171,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 284
-                            },
-                            {
+                                def_value: 284,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.53
-                            },
-                            {
+                                out_of_combat_value: 0.53,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.44
                             }
@@ -17086,25 +16607,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 239
-                            },
-                            {
+                                hp_value: 239,
                                 max_shield: "Max Shield",
-                                shield_value: 181
-                            },
-                            {
+                                shield_value: 181,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 309
-                            },
-                            {
+                                def_value: 309,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.55
-                            },
-                            {
+                                out_of_combat_value: 0.55,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.46
                             }
@@ -17117,25 +16628,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 250
-                            },
-                            {
+                                hp_value: 250,
                                 max_shield: "Max Shield",
-                                shield_value: 193
-                            },
-                            {
+                                shield_value: 193,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 339
-                            },
-                            {
+                                def_value: 339,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.6
-                            },
-                            {
+                                out_of_combat_value: 0.6,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.5
                             }
@@ -17148,25 +16649,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 269
-                            },
-                            {
+                                hp_value: 269,
                                 max_shield: "Max Shield",
-                                shield_value: 206
-                            },
-                            {
+                                shield_value: 206,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 364
-                            },
-                            {
+                                def_value: 364,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.66
-                            },
-                            {
+                                out_of_combat_value: 0.66,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.55
                             }
@@ -17179,25 +16670,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 287
-                            },
-                            {
+                                hp_value: 287,
                                 max_shield: "Max Shield",
-                                shield_value: 221
-                            },
-                            {
+                                shield_value: 221,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 406
-                            },
-                            {
+                                def_value: 406,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.71
-                            },
-                            {
+                                out_of_combat_value: 0.71,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.59
                             }
@@ -17210,25 +16691,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 310
-                            },
-                            {
+                                hp_value: 310,
                                 max_shield: "Max Shield",
-                                shield_value: 238
-                            },
-                            {
+                                shield_value: 238,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 452
-                            },
-                            {
+                                def_value: 452,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.77
-                            },
-                            {
+                                out_of_combat_value: 0.77,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.64
                             }
@@ -17241,25 +16712,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 338
-                            },
-                            {
+                                hp_value: 338,
                                 max_shield: "Max Shield",
-                                shield_value: 260
-                            },
-                            {
+                                shield_value: 260,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 498
-                            },
-                            {
+                                def_value: 498,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.82
-                            },
-                            {
+                                out_of_combat_value: 0.82,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.68
                             }
@@ -17272,25 +16733,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 361
-                            },
-                            {
+                                hp_value: 361,
                                 max_shield: "Max Shield",
-                                shield_value: 277
-                            },
-                            {
+                                shield_value: 277,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 547
-                            },
-                            {
+                                def_value: 547,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.89
-                            },
-                            {
+                                out_of_combat_value: 0.89,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.74
                             }
@@ -17303,25 +16754,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 389
-                            },
-                            {
+                                hp_value: 389,
                                 max_shield: "Max Shield",
-                                shield_value: 299
-                            },
-                            {
+                                shield_value: 299,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 598
-                            },
-                            {
+                                def_value: 598,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.95
-                            },
-                            {
+                                out_of_combat_value: 0.95,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.79
                             }
@@ -17334,25 +16775,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 417
-                            },
-                            {
+                                hp_value: 417,
                                 max_shield: "Max Shield",
-                                shield_value: 320
-                            },
-                            {
+                                shield_value: 320,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 651
-                            },
-                            {
+                                def_value: 651,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.01
-                            },
-                            {
+                                out_of_combat_value: 1.01,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.84
                             }
@@ -17365,25 +16796,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 444
-                            },
-                            {
+                                hp_value: 444,
                                 max_shield: "Max Shield",
-                                shield_value: 342
-                            },
-                            {
+                                shield_value: 342,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 706
-                            },
-                            {
+                                def_value: 706,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.09
-                            },
-                            {
+                                out_of_combat_value: 1.09,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.91
                             }
@@ -17396,25 +16817,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 477
-                            },
-                            {
+                                hp_value: 477,
                                 max_shield: "Max Shield",
-                                shield_value: 366
-                            },
-                            {
+                                shield_value: 366,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 763
-                            },
-                            {
+                                def_value: 763,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.16
-                            },
-                            {
+                                out_of_combat_value: 1.16,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.97
                             }
@@ -17427,25 +16838,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 504
-                            },
-                            {
+                                hp_value: 504,
                                 max_shield: "Max Shield",
-                                shield_value: 388
-                            },
-                            {
+                                shield_value: 388,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 823
-                            },
-                            {
+                                def_value: 823,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.24
-                            },
-                            {
+                                out_of_combat_value: 1.24,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.03
                             }
@@ -17458,25 +16859,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 537
-                            },
-                            {
+                                hp_value: 537,
                                 max_shield: "Max Shield",
-                                shield_value: 413
-                            },
-                            {
+                                shield_value: 413,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 884
-                            },
-                            {
+                                def_value: 884,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.32
-                            },
-                            {
+                                out_of_combat_value: 1.32,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.1
                             }
@@ -17489,25 +16880,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 569
-                            },
-                            {
+                                hp_value: 569,
                                 max_shield: "Max Shield",
-                                shield_value: 437
-                            },
-                            {
+                                shield_value: 437,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 947
-                            },
-                            {
+                                def_value: 947,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.4
-                            },
-                            {
+                                out_of_combat_value: 1.4,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.17
                             }
@@ -17520,25 +16901,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 602
-                            },
-                            {
+                                hp_value: 602,
                                 max_shield: "Max Shield",
-                                shield_value: 463
-                            },
-                            {
+                                shield_value: 463,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 1013
-                            },
-                            {
+                                def_value: 1013,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.48
-                            },
-                            {
+                                out_of_combat_value: 1.48,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.23
                             }
@@ -17551,25 +16922,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 643
-                            },
-                            {
+                                hp_value: 643,
                                 max_shield: "Max Shield",
-                                shield_value: 495
-                            },
-                            {
+                                shield_value: 495,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 1080
-                            },
-                            {
+                                def_value: 1080,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.57
-                            },
-                            {
+                                out_of_combat_value: 1.57,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.31
                             }
@@ -17582,25 +16943,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 676
-                            },
-                            {
+                                hp_value: 676,
                                 max_shield: "Max Shield",
-                                shield_value: 519
-                            },
-                            {
+                                shield_value: 519,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 1150
-                            },
-                            {
+                                def_value: 1150,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.67
-                            },
-                            {
+                                out_of_combat_value: 1.67,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.39
                             }
@@ -17613,25 +16964,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 712
-                            },
-                            {
+                                hp_value: 712,
                                 max_shield: "Max Shield",
-                                shield_value: 547
-                            },
-                            {
+                                shield_value: 547,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 1221
-                            },
-                            {
+                                def_value: 1221,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.74
-                            },
-                            {
+                                out_of_combat_value: 1.74,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.45
                             }
@@ -17644,25 +16985,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 749
-                            },
-                            {
+                                hp_value: 749,
                                 max_shield: "Max Shield",
-                                shield_value: 576
-                            },
-                            {
+                                shield_value: 576,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 1295
-                            },
-                            {
+                                def_value: 1295,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.85
-                            },
-                            {
+                                out_of_combat_value: 1.85,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.54
                             }
@@ -17675,25 +17006,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 791
-                            },
-                            {
+                                hp_value: 791,
                                 max_shield: "Max Shield",
-                                shield_value: 608
-                            },
-                            {
+                                shield_value: 608,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 1371
-                            },
-                            {
+                                def_value: 1371,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.93
-                            },
-                            {
+                                out_of_combat_value: 1.93,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.61
                             }
@@ -17706,25 +17027,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 828
-                            },
-                            {
+                                hp_value: 828,
                                 max_shield: "Max Shield",
-                                shield_value: 636
-                            },
-                            {
+                                shield_value: 636,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 1448
-                            },
-                            {
+                                def_value: 1448,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 2.03
-                            },
-                            {
+                                out_of_combat_value: 2.03,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.69
                             }
@@ -17737,25 +17048,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 865
-                            },
-                            {
+                                hp_value: 865,
                                 max_shield: "Max Shield",
-                                shield_value: 664
-                            },
-                            {
+                                shield_value: 664,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 1529
-                            },
-                            {
+                                def_value: 1529,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 2.12
-                            },
-                            {
+                                out_of_combat_value: 2.12,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.77
                             }
@@ -17768,25 +17069,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 911
-                            },
-                            {
+                                hp_value: 911,
                                 max_shield: "Max Shield",
-                                shield_value: 701
-                            },
-                            {
+                                shield_value: 701,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 1611
-                            },
-                            {
+                                def_value: 1611,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 2.23
-                            },
-                            {
+                                out_of_combat_value: 2.23,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.86
                             }
@@ -17799,25 +17090,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 948
-                            },
-                            {
+                                hp_value: 948,
                                 max_shield: "Max Shield",
-                                shield_value: 729
-                            },
-                            {
+                                shield_value: 729,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 1695
-                            },
-                            {
+                                def_value: 1695,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 2.33
-                            },
-                            {
+                                out_of_combat_value: 2.33,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.94
                             }
@@ -17830,25 +17111,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 995
-                            },
-                            {
+                                hp_value: 995,
                                 max_shield: "Max Shield",
-                                shield_value: 764
-                            },
-                            {
+                                shield_value: 764,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 1781
-                            },
-                            {
+                                def_value: 1781,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 2.44
-                            },
-                            {
+                                out_of_combat_value: 2.44,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2.03
                             }
@@ -17861,25 +17132,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 1036
-                            },
-                            {
+                                hp_value: 1036,
                                 max_shield: "Max Shield",
-                                shield_value: 796
-                            },
-                            {
+                                shield_value: 796,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 1869
-                            },
-                            {
+                                def_value: 1869,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 2.54
-                            },
-                            {
+                                out_of_combat_value: 2.54,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2.12
                             }
@@ -17892,25 +17153,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 1082
-                            },
-                            {
+                                hp_value: 1082,
                                 max_shield: "Max Shield",
-                                shield_value: 832
-                            },
-                            {
+                                shield_value: 832,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 1959
-                            },
-                            {
+                                def_value: 1959,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 2.65
-                            },
-                            {
+                                out_of_combat_value: 2.65,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2.21
                             }
@@ -17923,25 +17174,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 1124
-                            },
-                            {
+                                hp_value: 1124,
                                 max_shield: "Max Shield",
-                                shield_value: 863
-                            },
-                            {
+                                shield_value: 863,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 2051
-                            },
-                            {
+                                def_value: 2051,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 2.76
-                            },
-                            {
+                                out_of_combat_value: 2.76,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2.3
                             }
@@ -17954,25 +17195,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 1170
-                            },
-                            {
+                                hp_value: 1170,
                                 max_shield: "Max Shield",
-                                shield_value: 899
-                            },
-                            {
+                                shield_value: 899,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 2146
-                            },
-                            {
+                                def_value: 2146,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 2.87
-                            },
-                            {
+                                out_of_combat_value: 2.87,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2.39
                             }
@@ -17985,25 +17216,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 1216
-                            },
-                            {
+                                hp_value: 1216,
                                 max_shield: "Max Shield",
-                                shield_value: 935
-                            },
-                            {
+                                shield_value: 935,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 2242
-                            },
-                            {
+                                def_value: 2242,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 2.99
-                            },
-                            {
+                                out_of_combat_value: 2.99,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2.49
                             }
@@ -18016,25 +17237,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 1263
-                            },
-                            {
+                                hp_value: 1263,
                                 max_shield: "Max Shield",
-                                shield_value: 971
-                            },
-                            {
+                                shield_value: 971,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 2340
-                            },
-                            {
+                                def_value: 2340,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 3.1
-                            },
-                            {
+                                out_of_combat_value: 3.1,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2.58
                             }
@@ -18047,25 +17258,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 1309
-                            },
-                            {
+                                hp_value: 1309,
                                 max_shield: "Max Shield",
-                                shield_value: 1006
-                            },
-                            {
+                                shield_value: 1006,
                                 max_mp: "Max MP",
-                                mp_value: 0
-                            },
-                            {
+                                mp_value: 0,
                                 def: "DEF",
-                                def_value: 2441
-                            },
-                            {
+                                def_value: 2441,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 3.22
-                            },
-                            {
+                                out_of_combat_value: 3.22,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2.68
                             }
@@ -18132,25 +17333,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 186
-                            },
-                            {
+                                hp_value: 186,
                                 max_shield: "Max Shield",
-                                shield_value: 49
-                            },
-                            {
+                                shield_value: 49,
                                 max_mp: "Max MP",
-                                mp_value: 100
-                            },
-                            {
+                                mp_value: 100,
                                 def: "DEF",
-                                def_value: 217
-                            },
-                            {
+                                def_value: 217,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.54
-                            },
-                            {
+                                out_of_combat_value: 0.54,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.46
                             }
@@ -18163,25 +17354,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 188
-                            },
-                            {
+                                hp_value: 188,
                                 max_shield: "Max Shield",
-                                shield_value: 50
-                            },
-                            {
+                                shield_value: 50,
                                 max_mp: "Max MP",
-                                mp_value: 101
-                            },
-                            {
+                                mp_value: 101,
                                 def: "DEF",
-                                def_value: 219
-                            },
-                            {
+                                def_value: 219,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.55
-                            },
-                            {
+                                out_of_combat_value: 0.55,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.47
                             }
@@ -18194,25 +17375,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 192
-                            },
-                            {
+                                hp_value: 192,
                                 max_shield: "Max Shield",
-                                shield_value: 52
-                            },
-                            {
+                                shield_value: 52,
                                 max_mp: "Max MP",
-                                mp_value: 102
-                            },
-                            {
+                                mp_value: 102,
                                 def: "DEF",
-                                def_value: 223
-                            },
-                            {
+                                def_value: 223,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.57
-                            },
-                            {
+                                out_of_combat_value: 0.57,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.48
                             }
@@ -18225,25 +17396,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 196
-                            },
-                            {
+                                hp_value: 196,
                                 max_shield: "Max Shield",
-                                shield_value: 54
-                            },
-                            {
+                                shield_value: 54,
                                 max_mp: "Max MP",
-                                mp_value: 103
-                            },
-                            {
+                                mp_value: 103,
                                 def: "DEF",
-                                def_value: 229
-                            },
-                            {
+                                def_value: 229,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.59
-                            },
-                            {
+                                out_of_combat_value: 0.59,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.5
                             }
@@ -18256,25 +17417,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 202
-                            },
-                            {
+                                hp_value: 202,
                                 max_shield: "Max Shield",
-                                shield_value: 57
-                            },
-                            {
+                                shield_value: 57,
                                 max_mp: "Max MP",
-                                mp_value: 104
-                            },
-                            {
+                                mp_value: 104,
                                 def: "DEF",
-                                def_value: 236
-                            },
-                            {
+                                def_value: 236,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.62
-                            },
-                            {
+                                out_of_combat_value: 0.62,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.53
                             }
@@ -18287,25 +17438,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 210
-                            },
-                            {
+                                hp_value: 210,
                                 max_shield: "Max Shield",
-                                shield_value: 60
-                            },
-                            {
+                                shield_value: 60,
                                 max_mp: "Max MP",
-                                mp_value: 105
-                            },
-                            {
+                                mp_value: 105,
                                 def: "DEF",
-                                def_value: 246
-                            },
-                            {
+                                def_value: 246,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.66
-                            },
-                            {
+                                out_of_combat_value: 0.66,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.56
                             }
@@ -18318,25 +17459,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 218
-                            },
-                            {
+                                hp_value: 218,
                                 max_shield: "Max Shield",
-                                shield_value: 64
-                            },
-                            {
+                                shield_value: 64,
                                 max_mp: "Max MP",
-                                mp_value: 106
-                            },
-                            {
+                                mp_value: 106,
                                 def: "DEF",
-                                def_value: 261
-                            },
-                            {
+                                def_value: 261,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.73
-                            },
-                            {
+                                out_of_combat_value: 0.73,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.62
                             }
@@ -18349,25 +17480,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 228
-                            },
-                            {
+                                hp_value: 228,
                                 max_shield: "Max Shield",
-                                shield_value: 68
-                            },
-                            {
+                                shield_value: 68,
                                 max_mp: "Max MP",
-                                mp_value: 107
-                            },
-                            {
+                                mp_value: 107,
                                 def: "DEF",
-                                def_value: 284
-                            },
-                            {
+                                def_value: 284,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.78
-                            },
-                            {
+                                out_of_combat_value: 0.78,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.66
                             }
@@ -18380,25 +17501,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 243
-                            },
-                            {
+                                hp_value: 243,
                                 max_shield: "Max Shield",
-                                shield_value: 73
-                            },
-                            {
+                                shield_value: 73,
                                 max_mp: "Max MP",
-                                mp_value: 108
-                            },
-                            {
+                                mp_value: 108,
                                 def: "DEF",
-                                def_value: 309
-                            },
-                            {
+                                def_value: 309,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.84
-                            },
-                            {
+                                out_of_combat_value: 0.84,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.71
                             }
@@ -18411,25 +17522,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 262
-                            },
-                            {
+                                hp_value: 262,
                                 max_shield: "Max Shield",
-                                shield_value: 79
-                            },
-                            {
+                                shield_value: 79,
                                 max_mp: "Max MP",
-                                mp_value: 109
-                            },
-                            {
+                                mp_value: 109,
                                 def: "DEF",
-                                def_value: 339
-                            },
-                            {
+                                def_value: 339,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.92
-                            },
-                            {
+                                out_of_combat_value: 0.92,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.78
                             }
@@ -18442,25 +17543,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 282
-                            },
-                            {
+                                hp_value: 282,
                                 max_shield: "Max Shield",
-                                shield_value: 85
-                            },
-                            {
+                                shield_value: 85,
                                 max_mp: "Max MP",
-                                mp_value: 110
-                            },
-                            {
+                                mp_value: 110,
                                 def: "DEF",
-                                def_value: 364
-                            },
-                            {
+                                def_value: 364,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1
-                            },
-                            {
+                                out_of_combat_value: 1,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.84
                             }
@@ -18473,25 +17564,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 301
-                            },
-                            {
+                                hp_value: 301,
                                 max_shield: "Max Shield",
-                                shield_value: 91
-                            },
-                            {
+                                shield_value: 91,
                                 max_mp: "Max MP",
-                                mp_value: 111
-                            },
-                            {
+                                mp_value: 111,
                                 def: "DEF",
-                                def_value: 406
-                            },
-                            {
+                                def_value: 406,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.06
-                            },
-                            {
+                                out_of_combat_value: 1.06,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.89
                             }
@@ -18504,25 +17585,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 326
-                            },
-                            {
+                                hp_value: 326,
                                 max_shield: "Max Shield",
-                                shield_value: 98
-                            },
-                            {
+                                shield_value: 98,
                                 max_mp: "Max MP",
-                                mp_value: 113
-                            },
-                            {
+                                mp_value: 113,
                                 def: "DEF",
-                                def_value: 452
-                            },
-                            {
+                                def_value: 452,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.15
-                            },
-                            {
+                                out_of_combat_value: 1.15,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.97
                             }
@@ -18535,25 +17606,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 355
-                            },
-                            {
+                                hp_value: 355,
                                 max_shield: "Max Shield",
-                                shield_value: 107
-                            },
-                            {
+                                shield_value: 107,
                                 max_mp: "Max MP",
-                                mp_value: 115
-                            },
-                            {
+                                mp_value: 115,
                                 def: "DEF",
-                                def_value: 498
-                            },
-                            {
+                                def_value: 498,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.25
-                            },
-                            {
+                                out_of_combat_value: 1.25,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.05
                             }
@@ -18566,25 +17627,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 379
-                            },
-                            {
+                                hp_value: 379,
                                 max_shield: "Max Shield",
-                                shield_value: 114
-                            },
-                            {
+                                shield_value: 114,
                                 max_mp: "Max MP",
-                                mp_value: 116
-                            },
-                            {
+                                mp_value: 116,
                                 def: "DEF",
-                                def_value: 547
-                            },
-                            {
+                                def_value: 547,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.34
-                            },
-                            {
+                                out_of_combat_value: 1.34,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.13
                             }
@@ -18597,25 +17648,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 408
-                            },
-                            {
+                                hp_value: 408,
                                 max_shield: "Max Shield",
-                                shield_value: 123
-                            },
-                            {
+                                shield_value: 123,
                                 max_mp: "Max MP",
-                                mp_value: 118
-                            },
-                            {
+                                mp_value: 118,
                                 def: "DEF",
-                                def_value: 598
-                            },
-                            {
+                                def_value: 598,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.44
-                            },
-                            {
+                                out_of_combat_value: 1.44,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.21
                             }
@@ -18628,25 +17669,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 437
-                            },
-                            {
+                                hp_value: 437,
                                 max_shield: "Max Shield",
-                                shield_value: 132
-                            },
-                            {
+                                shield_value: 132,
                                 max_mp: "Max MP",
-                                mp_value: 120
-                            },
-                            {
+                                mp_value: 120,
                                 def: "DEF",
-                                def_value: 651
-                            },
-                            {
+                                def_value: 651,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.55
-                            },
-                            {
+                                out_of_combat_value: 1.55,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.3
                             }
@@ -18659,25 +17690,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 466
-                            },
-                            {
+                                hp_value: 466,
                                 max_shield: "Max Shield",
-                                shield_value: 140
-                            },
-                            {
+                                shield_value: 140,
                                 max_mp: "Max MP",
-                                mp_value: 122
-                            },
-                            {
+                                mp_value: 122,
                                 def: "DEF",
-                                def_value: 706
-                            },
-                            {
+                                def_value: 706,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.64
-                            },
-                            {
+                                out_of_combat_value: 1.64,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.38
                             }
@@ -18690,25 +17711,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 500
-                            },
-                            {
+                                hp_value: 500,
                                 max_shield: "Max Shield",
-                                shield_value: 150
-                            },
-                            {
+                                shield_value: 150,
                                 max_mp: "Max MP",
-                                mp_value: 124
-                            },
-                            {
+                                mp_value: 124,
                                 def: "DEF",
-                                def_value: 763
-                            },
-                            {
+                                def_value: 763,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.78
-                            },
-                            {
+                                out_of_combat_value: 1.78,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.49
                             }
@@ -18721,25 +17732,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 529
-                            },
-                            {
+                                hp_value: 529,
                                 max_shield: "Max Shield",
-                                shield_value: 159
-                            },
-                            {
+                                shield_value: 159,
                                 max_mp: "Max MP",
-                                mp_value: 125
-                            },
-                            {
+                                mp_value: 125,
                                 def: "DEF",
-                                def_value: 823
-                            },
-                            {
+                                def_value: 823,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.87
-                            },
-                            {
+                                out_of_combat_value: 1.87,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.57
                             }
@@ -18752,25 +17753,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 563
-                            },
-                            {
+                                hp_value: 563,
                                 max_shield: "Max Shield",
-                                shield_value: 170
-                            },
-                            {
+                                shield_value: 170,
                                 max_mp: "Max MP",
-                                mp_value: 127
-                            },
-                            {
+                                mp_value: 127,
                                 def: "DEF",
-                                def_value: 884
-                            },
-                            {
+                                def_value: 884,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.99
-                            },
-                            {
+                                out_of_combat_value: 1.99,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.67
                             }
@@ -18783,25 +17774,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 597
-                            },
-                            {
+                                hp_value: 597,
                                 max_shield: "Max Shield",
-                                shield_value: 180
-                            },
-                            {
+                                shield_value: 180,
                                 max_mp: "Max MP",
-                                mp_value: 130
-                            },
-                            {
+                                mp_value: 130,
                                 def: "DEF",
-                                def_value: 947
-                            },
-                            {
+                                def_value: 947,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 2.11
-                            },
-                            {
+                                out_of_combat_value: 2.11,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.77
                             }
@@ -18814,25 +17795,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 631
-                            },
-                            {
+                                hp_value: 631,
                                 max_shield: "Max Shield",
-                                shield_value: 190
-                            },
-                            {
+                                shield_value: 190,
                                 max_mp: "Max MP",
-                                mp_value: 133
-                            },
-                            {
+                                mp_value: 133,
                                 def: "DEF",
-                                def_value: 1013
-                            },
-                            {
+                                def_value: 1013,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 2.24
-                            },
-                            {
+                                out_of_combat_value: 2.24,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.88
                             }
@@ -18845,25 +17816,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 675
-                            },
-                            {
+                                hp_value: 675,
                                 max_shield: "Max Shield",
-                                shield_value: 203
-                            },
-                            {
+                                shield_value: 203,
                                 max_mp: "Max MP",
-                                mp_value: 135
-                            },
-                            {
+                                mp_value: 135,
                                 def: "DEF",
-                                def_value: 1080
-                            },
-                            {
+                                def_value: 1080,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 2.4
-                            },
-                            {
+                                out_of_combat_value: 2.4,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2.01
                             }
@@ -18876,25 +17837,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 709
-                            },
-                            {
+                                hp_value: 709,
                                 max_shield: "Max Shield",
-                                shield_value: 213
-                            },
-                            {
+                                shield_value: 213,
                                 max_mp: "Max MP",
-                                mp_value: 138
-                            },
-                            {
+                                mp_value: 138,
                                 def: "DEF",
-                                def_value: 1150
-                            },
-                            {
+                                def_value: 1150,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 2.52
-                            },
-                            {
+                                out_of_combat_value: 2.52,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2.11
                             }
@@ -18907,25 +17858,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 748
-                            },
-                            {
+                                hp_value: 748,
                                 max_shield: "Max Shield",
-                                shield_value: 225
-                            },
-                            {
+                                shield_value: 225,
                                 max_mp: "Max MP",
-                                mp_value: 141
-                            },
-                            {
+                                mp_value: 141,
                                 def: "DEF",
-                                def_value: 1221
-                            },
-                            {
+                                def_value: 1221,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 2.65
-                            },
-                            {
+                                out_of_combat_value: 2.65,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2.22
                             }
@@ -18938,25 +17879,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 786
-                            },
-                            {
+                                hp_value: 786,
                                 max_shield: "Max Shield",
-                                shield_value: 236
-                            },
-                            {
+                                shield_value: 236,
                                 max_mp: "Max MP",
-                                mp_value: 144
-                            },
-                            {
+                                mp_value: 144,
                                 def: "DEF",
-                                def_value: 1295
-                            },
-                            {
+                                def_value: 1295,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 2.8
-                            },
-                            {
+                                out_of_combat_value: 2.8,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2.34
                             }
@@ -18969,25 +17900,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 830
-                            },
-                            {
+                                hp_value: 830,
                                 max_shield: "Max Shield",
-                                shield_value: 250
-                            },
-                            {
+                                shield_value: 250,
                                 max_mp: "Max MP",
-                                mp_value: 146
-                            },
-                            {
+                                mp_value: 146,
                                 def: "DEF",
-                                def_value: 1371
-                            },
-                            {
+                                def_value: 1371,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 2.95
-                            },
-                            {
+                                out_of_combat_value: 2.95,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2.47
                             }
@@ -19000,25 +17921,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 869
-                            },
-                            {
+                                hp_value: 869,
                                 max_shield: "Max Shield",
-                                shield_value: 261
-                            },
-                            {
+                                shield_value: 261,
                                 max_mp: "Max MP",
-                                mp_value: 149
-                            },
-                            {
+                                mp_value: 149,
                                 def: "DEF",
-                                def_value: 1448
-                            },
-                            {
+                                def_value: 1448,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 3.08
-                            },
-                            {
+                                out_of_combat_value: 3.08,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2.58
                             }
@@ -19031,25 +17942,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 908
-                            },
-                            {
+                                hp_value: 908,
                                 max_shield: "Max Shield",
-                                shield_value: 273
-                            },
-                            {
+                                shield_value: 273,
                                 max_mp: "Max MP",
-                                mp_value: 152
-                            },
-                            {
+                                mp_value: 152,
                                 def: "DEF",
-                                def_value: 1529
-                            },
-                            {
+                                def_value: 1529,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 3.23
-                            },
-                            {
+                                out_of_combat_value: 3.23,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2.7
                             }
@@ -19062,25 +17963,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 956
-                            },
-                            {
+                                hp_value: 956,
                                 max_shield: "Max Shield",
-                                shield_value: 288
-                            },
-                            {
+                                shield_value: 288,
                                 max_mp: "Max MP",
-                                mp_value: 155
-                            },
-                            {
+                                mp_value: 155,
                                 def: "DEF",
-                                def_value: 1611
-                            },
-                            {
+                                def_value: 1611,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 3.4
-                            },
-                            {
+                                out_of_combat_value: 3.4,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2.84
                             }
@@ -19093,25 +17984,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 995
-                            },
-                            {
+                                hp_value: 995,
                                 max_shield: "Max Shield",
-                                shield_value: 299
-                            },
-                            {
+                                shield_value: 299,
                                 max_mp: "Max MP",
-                                mp_value: 158
-                            },
-                            {
+                                mp_value: 158,
                                 def: "DEF",
-                                def_value: 1695
-                            },
-                            {
+                                def_value: 1695,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 3.54
-                            },
-                            {
+                                out_of_combat_value: 3.54,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2.96
                             }
@@ -19124,25 +18005,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 1043
-                            },
-                            {
+                                hp_value: 1043,
                                 max_shield: "Max Shield",
-                                shield_value: 314
-                            },
-                            {
+                                shield_value: 314,
                                 max_mp: "Max MP",
-                                mp_value: 162
-                            },
-                            {
+                                mp_value: 162,
                                 def: "DEF",
-                                def_value: 1781
-                            },
-                            {
+                                def_value: 1781,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 3.71
-                            },
-                            {
+                                out_of_combat_value: 3.71,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 3.1
                             }
@@ -19155,25 +18026,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 1087
-                            },
-                            {
+                                hp_value: 1087,
                                 max_shield: "Max Shield",
-                                shield_value: 327
-                            },
-                            {
+                                shield_value: 327,
                                 max_mp: "Max MP",
-                                mp_value: 165
-                            },
-                            {
+                                mp_value: 165,
                                 def: "DEF",
-                                def_value: 1869
-                            },
-                            {
+                                def_value: 1869,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 3.86
-                            },
-                            {
+                                out_of_combat_value: 3.86,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 3.23
                             }
@@ -19186,25 +18047,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 1136
-                            },
-                            {
+                                hp_value: 1136,
                                 max_shield: "Max Shield",
-                                shield_value: 342
-                            },
-                            {
+                                shield_value: 342,
                                 max_mp: "Max MP",
-                                mp_value: 169
-                            },
-                            {
+                                mp_value: 169,
                                 def: "DEF",
-                                def_value: 1959
-                            },
-                            {
+                                def_value: 1959,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 4.04
-                            },
-                            {
+                                out_of_combat_value: 4.04,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 3.38
                             }
@@ -19217,25 +18068,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 1179
-                            },
-                            {
+                                hp_value: 1179,
                                 max_shield: "Max Shield",
-                                shield_value: 354
-                            },
-                            {
+                                shield_value: 354,
                                 max_mp: "Max MP",
-                                mp_value: 173
-                            },
-                            {
+                                mp_value: 173,
                                 def: "DEF",
-                                def_value: 2051
-                            },
-                            {
+                                def_value: 2051,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 4.2
-                            },
-                            {
+                                out_of_combat_value: 4.2,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 3.51
                             }
@@ -19248,25 +18089,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 1228
-                            },
-                            {
+                                hp_value: 1228,
                                 max_shield: "Max Shield",
-                                shield_value: 369
-                            },
-                            {
+                                shield_value: 369,
                                 max_mp: "Max MP",
-                                mp_value: 176
-                            },
-                            {
+                                mp_value: 176,
                                 def: "DEF",
-                                def_value: 2146
-                            },
-                            {
+                                def_value: 2146,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 4.37
-                            },
-                            {
+                                out_of_combat_value: 4.37,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 3.65
                             }
@@ -19279,25 +18110,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 1276
-                            },
-                            {
+                                hp_value: 1276,
                                 max_shield: "Max Shield",
-                                shield_value: 384
-                            },
-                            {
+                                shield_value: 384,
                                 max_mp: "Max MP",
-                                mp_value: 180
-                            },
-                            {
+                                mp_value: 180,
                                 def: "DEF",
-                                def_value: 2242
-                            },
-                            {
+                                def_value: 2242,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 4.54
-                            },
-                            {
+                                out_of_combat_value: 4.54,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 3.79
                             }
@@ -19310,25 +18131,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 1325
-                            },
-                            {
+                                hp_value: 1325,
                                 max_shield: "Max Shield",
-                                shield_value: 398
-                            },
-                            {
+                                shield_value: 398,
                                 max_mp: "Max MP",
-                                mp_value: 184
-                            },
-                            {
+                                mp_value: 184,
                                 def: "DEF",
-                                def_value: 2340
-                            },
-                            {
+                                def_value: 2340,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 4.72
-                            },
-                            {
+                                out_of_combat_value: 4.72,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 3.94
                             }
@@ -19341,25 +18152,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 1373
-                            },
-                            {
+                                hp_value: 1373,
                                 max_shield: "Max Shield",
-                                shield_value: 413
-                            },
-                            {
+                                shield_value: 413,
                                 max_mp: "Max MP",
-                                mp_value: 187
-                            },
-                            {
+                                mp_value: 187,
                                 def: "DEF",
-                                def_value: 2441
-                            },
-                            {
+                                def_value: 2441,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 4.88
-                            },
-                            {
+                                out_of_combat_value: 4.88,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 4.08
                             }
@@ -19426,25 +18227,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 105
-                            },
-                            {
+                                hp_value: 105,
                                 max_shield: "Max Shield",
-                                shield_value: 63
-                            },
-                            {
+                                shield_value: 63,
                                 max_mp: "Max MP",
-                                mp_value: 100
-                            },
-                            {
+                                mp_value: 100,
                                 def: "DEF",
-                                def_value: 126
-                            },
-                            {
+                                def_value: 126,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.46
-                            },
-                            {
+                                out_of_combat_value: 0.46,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.38
                             }
@@ -19457,25 +18248,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 107
-                            },
-                            {
+                                hp_value: 107,
                                 max_shield: "Max Shield",
-                                shield_value: 64
-                            },
-                            {
+                                shield_value: 64,
                                 max_mp: "Max MP",
-                                mp_value: 101
-                            },
-                            {
+                                mp_value: 101,
                                 def: "DEF",
-                                def_value: 128
-                            },
-                            {
+                                def_value: 128,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.46
-                            },
-                            {
+                                out_of_combat_value: 0.46,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.38
                             }
@@ -19488,25 +18269,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 110
-                            },
-                            {
+                                hp_value: 110,
                                 max_shield: "Max Shield",
-                                shield_value: 66
-                            },
-                            {
+                                shield_value: 66,
                                 max_mp: "Max MP",
-                                mp_value: 102
-                            },
-                            {
+                                mp_value: 102,
                                 def: "DEF",
-                                def_value: 132
-                            },
-                            {
+                                def_value: 132,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.46
-                            },
-                            {
+                                out_of_combat_value: 0.46,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.38
                             }
@@ -19519,25 +18290,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 114
-                            },
-                            {
+                                hp_value: 114,
                                 max_shield: "Max Shield",
-                                shield_value: 69
-                            },
-                            {
+                                shield_value: 69,
                                 max_mp: "Max MP",
-                                mp_value: 103
-                            },
-                            {
+                                mp_value: 103,
                                 def: "DEF",
-                                def_value: 136
-                            },
-                            {
+                                def_value: 136,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.48
-                            },
-                            {
+                                out_of_combat_value: 0.48,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.4
                             }
@@ -19550,25 +18311,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 119
-                            },
-                            {
+                                hp_value: 119,
                                 max_shield: "Max Shield",
-                                shield_value: 73
-                            },
-                            {
+                                shield_value: 73,
                                 max_mp: "Max MP",
-                                mp_value: 104
-                            },
-                            {
+                                mp_value: 104,
                                 def: "DEF",
-                                def_value: 142
-                            },
-                            {
+                                def_value: 142,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.53
-                            },
-                            {
+                                out_of_combat_value: 0.53,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.44
                             }
@@ -19581,25 +18332,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 125
-                            },
-                            {
+                                hp_value: 125,
                                 max_shield: "Max Shield",
-                                shield_value: 77
-                            },
-                            {
+                                shield_value: 77,
                                 max_mp: "Max MP",
-                                mp_value: 105
-                            },
-                            {
+                                mp_value: 105,
                                 def: "DEF",
-                                def_value: 150
-                            },
-                            {
+                                def_value: 150,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.55
-                            },
-                            {
+                                out_of_combat_value: 0.55,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.46
                             }
@@ -19612,25 +18353,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 132
-                            },
-                            {
+                                hp_value: 132,
                                 max_shield: "Max Shield",
-                                shield_value: 82
-                            },
-                            {
+                                shield_value: 82,
                                 max_mp: "Max MP",
-                                mp_value: 106
-                            },
-                            {
+                                mp_value: 106,
                                 def: "DEF",
-                                def_value: 160
-                            },
-                            {
+                                def_value: 160,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.6
-                            },
-                            {
+                                out_of_combat_value: 0.6,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.5
                             }
@@ -19643,25 +18374,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 140
-                            },
-                            {
+                                hp_value: 140,
                                 max_shield: "Max Shield",
-                                shield_value: 87
-                            },
-                            {
+                                shield_value: 87,
                                 max_mp: "Max MP",
-                                mp_value: 107
-                            },
-                            {
+                                mp_value: 107,
                                 def: "DEF",
-                                def_value: 175
-                            },
-                            {
+                                def_value: 175,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.65
-                            },
-                            {
+                                out_of_combat_value: 0.65,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.54
                             }
@@ -19674,25 +18395,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 150
-                            },
-                            {
+                                hp_value: 150,
                                 max_shield: "Max Shield",
-                                shield_value: 93
-                            },
-                            {
+                                shield_value: 93,
                                 max_mp: "Max MP",
-                                mp_value: 108
-                            },
-                            {
+                                mp_value: 108,
                                 def: "DEF",
-                                def_value: 195
-                            },
-                            {
+                                def_value: 195,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.7
-                            },
-                            {
+                                out_of_combat_value: 0.7,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.58
                             }
@@ -19705,25 +18416,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 161
-                            },
-                            {
+                                hp_value: 161,
                                 max_shield: "Max Shield",
-                                shield_value: 99
-                            },
-                            {
+                                shield_value: 99,
                                 max_mp: "Max MP",
-                                mp_value: 109
-                            },
-                            {
+                                mp_value: 109,
                                 def: "DEF",
-                                def_value: 220
-                            },
-                            {
+                                def_value: 220,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.74
-                            },
-                            {
+                                out_of_combat_value: 0.74,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.62
                             }
@@ -19736,25 +18437,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 173
-                            },
-                            {
+                                hp_value: 173,
                                 max_shield: "Max Shield",
-                                shield_value: 106
-                            },
-                            {
+                                shield_value: 106,
                                 max_mp: "Max MP",
-                                mp_value: 110
-                            },
-                            {
+                                mp_value: 110,
                                 def: "DEF",
-                                def_value: 249
-                            },
-                            {
+                                def_value: 249,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.82
-                            },
-                            {
+                                out_of_combat_value: 0.82,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.68
                             }
@@ -19767,25 +18458,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 185
-                            },
-                            {
+                                hp_value: 185,
                                 max_shield: "Max Shield",
-                                shield_value: 113
-                            },
-                            {
+                                shield_value: 113,
                                 max_mp: "Max MP",
-                                mp_value: 111
-                            },
-                            {
+                                mp_value: 111,
                                 def: "DEF",
-                                def_value: 279
-                            },
-                            {
+                                def_value: 279,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.86
-                            },
-                            {
+                                out_of_combat_value: 0.86,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.72
                             }
@@ -19798,25 +18479,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 199
-                            },
-                            {
+                                hp_value: 199,
                                 max_shield: "Max Shield",
-                                shield_value: 122
-                            },
-                            {
+                                shield_value: 122,
                                 max_mp: "Max MP",
-                                mp_value: 113
-                            },
-                            {
+                                mp_value: 113,
                                 def: "DEF",
-                                def_value: 310
-                            },
-                            {
+                                def_value: 310,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 0.94
-                            },
-                            {
+                                out_of_combat_value: 0.94,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.78
                             }
@@ -19829,25 +18500,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 217
-                            },
-                            {
+                                hp_value: 217,
                                 max_shield: "Max Shield",
-                                shield_value: 133
-                            },
-                            {
+                                shield_value: 133,
                                 max_mp: "Max MP",
-                                mp_value: 115
-                            },
-                            {
+                                mp_value: 115,
                                 def: "DEF",
-                                def_value: 342
-                            },
-                            {
+                                def_value: 342,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.03
-                            },
-                            {
+                                out_of_combat_value: 1.03,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.86
                             }
@@ -19860,25 +18521,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 232
-                            },
-                            {
+                                hp_value: 232,
                                 max_shield: "Max Shield",
-                                shield_value: 142
-                            },
-                            {
+                                shield_value: 142,
                                 max_mp: "Max MP",
-                                mp_value: 116
-                            },
-                            {
+                                mp_value: 116,
                                 def: "DEF",
-                                def_value: 375
-                            },
-                            {
+                                def_value: 375,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.08
-                            },
-                            {
+                                out_of_combat_value: 1.08,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.9
                             }
@@ -19891,25 +18542,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 250
-                            },
-                            {
+                                hp_value: 250,
                                 max_shield: "Max Shield",
-                                shield_value: 153
-                            },
-                            {
+                                shield_value: 153,
                                 max_mp: "Max MP",
-                                mp_value: 118
-                            },
-                            {
+                                mp_value: 118,
                                 def: "DEF",
-                                def_value: 410
-                            },
-                            {
+                                def_value: 410,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.18
-                            },
-                            {
+                                out_of_combat_value: 1.18,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 0.98
                             }
@@ -19922,25 +18563,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 268
-                            },
-                            {
+                                hp_value: 268,
                                 max_shield: "Max Shield",
-                                shield_value: 164
-                            },
-                            {
+                                shield_value: 164,
                                 max_mp: "Max MP",
-                                mp_value: 120
-                            },
-                            {
+                                mp_value: 120,
                                 def: "DEF",
-                                def_value: 446
-                            },
-                            {
+                                def_value: 446,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.25
-                            },
-                            {
+                                out_of_combat_value: 1.25,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.04
                             }
@@ -19953,25 +18584,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 286
-                            },
-                            {
+                                hp_value: 286,
                                 max_shield: "Max Shield",
-                                shield_value: 175
-                            },
-                            {
+                                shield_value: 175,
                                 max_mp: "Max MP",
-                                mp_value: 122
-                            },
-                            {
+                                mp_value: 122,
                                 def: "DEF",
-                                def_value: 484
-                            },
-                            {
+                                def_value: 484,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.34
-                            },
-                            {
+                                out_of_combat_value: 1.34,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.12
                             }
@@ -19984,25 +18605,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 306
-                            },
-                            {
+                                hp_value: 306,
                                 max_shield: "Max Shield",
-                                shield_value: 188
-                            },
-                            {
+                                shield_value: 188,
                                 max_mp: "Max MP",
-                                mp_value: 124
-                            },
-                            {
+                                mp_value: 124,
                                 def: "DEF",
-                                def_value: 523
-                            },
-                            {
+                                def_value: 523,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.44
-                            },
-                            {
+                                out_of_combat_value: 1.44,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.2
                             }
@@ -20015,25 +18626,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 324
-                            },
-                            {
+                                hp_value: 324,
                                 max_shield: "Max Shield",
-                                shield_value: 199
-                            },
-                            {
+                                shield_value: 199,
                                 max_mp: "Max MP",
-                                mp_value: 125
-                            },
-                            {
+                                mp_value: 125,
                                 def: "DEF",
-                                def_value: 564
-                            },
-                            {
+                                def_value: 564,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.54
-                            },
-                            {
+                                out_of_combat_value: 1.54,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.28
                             }
@@ -20046,25 +18647,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 345
-                            },
-                            {
+                                hp_value: 345,
                                 max_shield: "Max Shield",
-                                shield_value: 212
-                            },
-                            {
+                                shield_value: 212,
                                 max_mp: "Max MP",
-                                mp_value: 127
-                            },
-                            {
+                                mp_value: 127,
                                 def: "DEF",
-                                def_value: 606
-                            },
-                            {
+                                def_value: 606,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.63
-                            },
-                            {
+                                out_of_combat_value: 1.63,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.36
                             }
@@ -20077,25 +18668,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 366
-                            },
-                            {
+                                hp_value: 366,
                                 max_shield: "Max Shield",
-                                shield_value: 224
-                            },
-                            {
+                                shield_value: 224,
                                 max_mp: "Max MP",
-                                mp_value: 130
-                            },
-                            {
+                                mp_value: 130,
                                 def: "DEF",
-                                def_value: 649
-                            },
-                            {
+                                def_value: 649,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.73
-                            },
-                            {
+                                out_of_combat_value: 1.73,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.44
                             }
@@ -20108,25 +18689,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 387
-                            },
-                            {
+                                hp_value: 387,
                                 max_shield: "Max Shield",
-                                shield_value: 237
-                            },
-                            {
+                                shield_value: 237,
                                 max_mp: "Max MP",
-                                mp_value: 133
-                            },
-                            {
+                                mp_value: 133,
                                 def: "DEF",
-                                def_value: 694
-                            },
-                            {
+                                def_value: 694,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.82
-                            },
-                            {
+                                out_of_combat_value: 1.82,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.52
                             }
@@ -20139,25 +18710,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 413
-                            },
-                            {
+                                hp_value: 413,
                                 max_shield: "Max Shield",
-                                shield_value: 254
-                            },
-                            {
+                                shield_value: 254,
                                 max_mp: "Max MP",
-                                mp_value: 135
-                            },
-                            {
+                                mp_value: 135,
                                 def: "DEF",
-                                def_value: 741
-                            },
-                            {
+                                def_value: 741,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 1.94
-                            },
-                            {
+                                out_of_combat_value: 1.94,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.62
                             }
@@ -20170,25 +18731,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 434
-                            },
-                            {
+                                hp_value: 434,
                                 max_shield: "Max Shield",
-                                shield_value: 266
-                            },
-                            {
+                                shield_value: 266,
                                 max_mp: "Max MP",
-                                mp_value: 138
-                            },
-                            {
+                                mp_value: 138,
                                 def: "DEF",
-                                def_value: 788
-                            },
-                            {
+                                def_value: 788,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 2.04
-                            },
-                            {
+                                out_of_combat_value: 2.04,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.7
                             }
@@ -20201,25 +18752,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 458
-                            },
-                            {
+                                hp_value: 458,
                                 max_shield: "Max Shield",
-                                shield_value: 281
-                            },
-                            {
+                                shield_value: 281,
                                 max_mp: "Max MP",
-                                mp_value: 141
-                            },
-                            {
+                                mp_value: 141,
                                 def: "DEF",
-                                def_value: 837
-                            },
-                            {
+                                def_value: 837,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 2.16
-                            },
-                            {
+                                out_of_combat_value: 2.16,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.8
                             }
@@ -20232,25 +18773,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 482
-                            },
-                            {
+                                hp_value: 482,
                                 max_shield: "Max Shield",
-                                shield_value: 295
-                            },
-                            {
+                                shield_value: 295,
                                 max_mp: "Max MP",
-                                mp_value: 144
-                            },
-                            {
+                                mp_value: 144,
                                 def: "DEF",
-                                def_value: 888
-                            },
-                            {
+                                def_value: 888,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 2.26
-                            },
-                            {
+                                out_of_combat_value: 2.26,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 1.88
                             }
@@ -20263,25 +18794,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 508
-                            },
-                            {
+                                hp_value: 508,
                                 max_shield: "Max Shield",
-                                shield_value: 312
-                            },
-                            {
+                                shield_value: 312,
                                 max_mp: "Max MP",
-                                mp_value: 146
-                            },
-                            {
+                                mp_value: 146,
                                 def: "DEF",
-                                def_value: 940
-                            },
-                            {
+                                def_value: 940,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 2.4
-                            },
-                            {
+                                out_of_combat_value: 2.4,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2
                             }
@@ -20294,25 +18815,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 532
-                            },
-                            {
+                                hp_value: 532,
                                 max_shield: "Max Shield",
-                                shield_value: 326
-                            },
-                            {
+                                shield_value: 326,
                                 max_mp: "Max MP",
-                                mp_value: 149
-                            },
-                            {
+                                mp_value: 149,
                                 def: "DEF",
-                                def_value: 993
-                            },
-                            {
+                                def_value: 993,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 2.5
-                            },
-                            {
+                                out_of_combat_value: 2.5,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2.08
                             }
@@ -20325,25 +18836,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 556
-                            },
-                            {
+                                hp_value: 556,
                                 max_shield: "Max Shield",
-                                shield_value: 341
-                            },
-                            {
+                                shield_value: 341,
                                 max_mp: "Max MP",
-                                mp_value: 152
-                            },
-                            {
+                                mp_value: 152,
                                 def: "DEF",
-                                def_value: 1048
-                            },
-                            {
+                                def_value: 1048,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 2.64
-                            },
-                            {
+                                out_of_combat_value: 2.64,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2.2
                             }
@@ -20356,25 +18857,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 586
-                            },
-                            {
+                                hp_value: 586,
                                 max_shield: "Max Shield",
-                                shield_value: 359
-                            },
-                            {
+                                shield_value: 359,
                                 max_mp: "Max MP",
-                                mp_value: 155
-                            },
-                            {
+                                mp_value: 155,
                                 def: "DEF",
-                                def_value: 1104
-                            },
-                            {
+                                def_value: 1104,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 2.76
-                            },
-                            {
+                                out_of_combat_value: 2.76,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2.3
                             }
@@ -20387,25 +18878,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 609
-                            },
-                            {
+                                hp_value: 609,
                                 max_shield: "Max Shield",
-                                shield_value: 374
-                            },
-                            {
+                                shield_value: 374,
                                 max_mp: "Max MP",
-                                mp_value: 158
-                            },
-                            {
+                                mp_value: 158,
                                 def: "DEF",
-                                def_value: 1162
-                            },
-                            {
+                                def_value: 1162,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 2.88
-                            },
-                            {
+                                out_of_combat_value: 2.88,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2.4
                             }
@@ -20418,25 +18899,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 639
-                            },
-                            {
+                                hp_value: 639,
                                 max_shield: "Max Shield",
-                                shield_value: 392
-                            },
-                            {
+                                shield_value: 392,
                                 max_mp: "Max MP",
-                                mp_value: 162
-                            },
-                            {
+                                mp_value: 162,
                                 def: "DEF",
-                                def_value: 1221
-                            },
-                            {
+                                def_value: 1221,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 3
-                            },
-                            {
+                                out_of_combat_value: 3,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2.5
                             }
@@ -20449,25 +18920,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 666
-                            },
-                            {
+                                hp_value: 666,
                                 max_shield: "Max Shield",
-                                shield_value: 408
-                            },
-                            {
+                                shield_value: 408,
                                 max_mp: "Max MP",
-                                mp_value: 165
-                            },
-                            {
+                                mp_value: 165,
                                 def: "DEF",
-                                def_value: 1282
-                            },
-                            {
+                                def_value: 1282,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 3.14
-                            },
-                            {
+                                out_of_combat_value: 3.14,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2.62
                             }
@@ -20480,25 +18941,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 695
-                            },
-                            {
+                                hp_value: 695,
                                 max_shield: "Max Shield",
-                                shield_value: 427
-                            },
-                            {
+                                shield_value: 427,
                                 max_mp: "Max MP",
-                                mp_value: 169
-                            },
-                            {
+                                mp_value: 169,
                                 def: "DEF",
-                                def_value: 1344
-                            },
-                            {
+                                def_value: 1344,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 3.26
-                            },
-                            {
+                                out_of_combat_value: 3.26,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2.72
                             }
@@ -20511,25 +18962,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 722
-                            },
-                            {
+                                hp_value: 722,
                                 max_shield: "Max Shield",
-                                shield_value: 443
-                            },
-                            {
+                                shield_value: 443,
                                 max_mp: "Max MP",
-                                mp_value: 173
-                            },
-                            {
+                                mp_value: 173,
                                 def: "DEF",
-                                def_value: 1407
-                            },
-                            {
+                                def_value: 1407,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 3.41
-                            },
-                            {
+                                out_of_combat_value: 3.41,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2.84
                             }
@@ -20542,25 +18983,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 752
-                            },
-                            {
+                                hp_value: 752,
                                 max_shield: "Max Shield",
-                                shield_value: 461
-                            },
-                            {
+                                shield_value: 461,
                                 max_mp: "Max MP",
-                                mp_value: 176
-                            },
-                            {
+                                mp_value: 176,
                                 def: "DEF",
-                                def_value: 1471
-                            },
-                            {
+                                def_value: 1471,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 3.53
-                            },
-                            {
+                                out_of_combat_value: 3.53,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 2.94
                             }
@@ -20573,25 +19004,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 782
-                            },
-                            {
+                                hp_value: 782,
                                 max_shield: "Max Shield",
-                                shield_value: 479
-                            },
-                            {
+                                shield_value: 479,
                                 max_mp: "Max MP",
-                                mp_value: 180
-                            },
-                            {
+                                mp_value: 180,
                                 def: "DEF",
-                                def_value: 1537
-                            },
-                            {
+                                def_value: 1537,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 3.67
-                            },
-                            {
+                                out_of_combat_value: 3.67,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 3.06
                             }
@@ -20604,25 +19025,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 811
-                            },
-                            {
+                                hp_value: 811,
                                 max_shield: "Max Shield",
-                                shield_value: 498
-                            },
-                            {
+                                shield_value: 498,
                                 max_mp: "Max MP",
-                                mp_value: 184
-                            },
-                            {
+                                mp_value: 184,
                                 def: "DEF",
-                                def_value: 1605
-                            },
-                            {
+                                def_value: 1605,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 3.82
-                            },
-                            {
+                                out_of_combat_value: 3.82,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 3.18
                             }
@@ -20635,25 +19046,15 @@ const descendantList: Prisma.DescendantsCreateInput[] = [
                         create: [
                             {
                                 max_hp: "Max HP",
-                                hp_value: 841
-                            },
-                            {
+                                hp_value: 841,
                                 max_shield: "Max Shield",
-                                shield_value: 516
-                            },
-                            {
+                                shield_value: 516,
                                 max_mp: "Max MP",
-                                mp_value: 187
-                            },
-                            {
+                                mp_value: 187,
                                 def: "DEF",
-                                def_value: 1674
-                            },
-                            {
+                                def_value: 1674,
                                 shield_recovery_out_of_combat: "Shield Recovery Out of Combat",
-                                out_of_combat_value: 3.96
-                            },
-                            {
+                                out_of_combat_value: 3.96,
                                 shield_recovery_in_combat: "Shield Recovery In Combat",
                                 in_combat_value: 3.3
                             }
