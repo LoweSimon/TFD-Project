@@ -11,10 +11,50 @@ datasource db {
 }
 
 model Descendants {
-  id              String @id @default(cuid())
-  descendant_name String @unique
-  slug            String @unique
+  id              String             @id @default(cuid())
+  descendant_name String             @unique
+  slug            String             @unique
   descendant_img  String
+  skills          DescendantSkills[]
+  levels          DescendantLevels[]
 
   @@index([slug])
+}
+
+model DescendantSkills {
+  id                String       @id @default(cuid())
+  skill_type        String
+  skill_name        String
+  element_type      String
+  arche_type        String
+  skill_image       String
+  skill_description String
+  Descendants       Descendants? @relation(fields: [descendantsId], references: [id])
+  descendantsId     String?
+}
+
+model DescendantLevels {
+  id            String            @id @default(cuid())
+  level         Int
+  stats         DescendantStats[]
+  Descendants   Descendants?      @relation(fields: [descendantsId], references: [id])
+  descendantsId String?
+}
+
+model DescendantStats {
+  id                            String            @id @default(cuid())
+  max_hp                        String
+  hp_value                      Int
+  max_shield                    String
+  shield_value                  Int
+  max_mp                        String
+  mp_value                      Int
+  def                           String
+  def_value                     Int
+  shield_recovery_out_of_combat String
+  out_of_combat_value           Float
+  shield_recovery_in_combat     String
+  in_combat_value               Float
+  DescendantLevels              DescendantLevels? @relation(fields: [descendantLevelsId], references: [id])
+  descendantLevelsId            String?
 }
