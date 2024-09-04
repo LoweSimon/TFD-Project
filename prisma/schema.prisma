@@ -17,7 +17,6 @@ model Descendants {
   descendant_img  String
   skills          DescendantSkills[]
   levels          DescendantLevels[]
-  descendantStats DescendantStats[]
 
   @@index([slug])
 }
@@ -53,11 +52,9 @@ model DescendantStats {
   def                           String
   def_value                     Int
   shield_recovery_out_of_combat String
-  out_of_combat_value           Int
+  out_of_combat_value           Float
   shield_recovery_in_combat     String
-  in_combat_value               Int
+  in_combat_value               Float
   DescendantLevels              DescendantLevels? @relation(fields: [descendantLevelsId], references: [id])
   descendantLevelsId            String?
-  Descendants                   Descendants?      @relation(fields: [descendantsId], references: [id])
-  descendantsId                 String?
 }
