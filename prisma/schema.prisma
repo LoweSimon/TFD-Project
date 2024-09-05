@@ -58,3 +58,23 @@ model DescendantStats {
   DescendantLevels              DescendantLevels? @relation(fields: [descendantLevelsId], references: [id])
   descendantLevelsId            String?
 }
+
+model Modules {
+  module_id          String       @id @default(cuid())
+  module_name        String
+  image_url          String
+  module_type        String
+  module_tier        String
+  module_socket_type String
+  module_class       String
+  module_stat        ModuleStat[]
+}
+
+model ModuleStat {
+  id               String   @id @default(cuid())
+  level            Int
+  module_capacity  Int
+  value            String
+  Modules          Modules? @relation(fields: [modulesModule_id], references: [module_id])
+  modulesModule_id String?
+}

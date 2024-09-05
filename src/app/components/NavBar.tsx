@@ -41,7 +41,7 @@ export default async function NavBar() {
                             </ul>
                             </details>
                         </li>
-                        <li><Link href={`/modules`}>Modules</Link></li>
+                        <li><Link href={`/all-modules`}>Modules</Link></li>
                         <li><Link href={`/builder`}>Builder</Link></li>
                         </ul>
                         </div>

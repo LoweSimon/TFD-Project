@@ -36,4 +36,19 @@ body {
   hr {
     @apply !border-gray-500
   }
+  table, td, tr {
+    @apply !border-gray-900 border-4 bg-blue-950
+  }
+  .standard {
+    @apply bg-blue-300
+  }
+  .rare {
+    @apply bg-purple-700
+  }
+  .ultimate {
+    background-color: goldenrod;
+  }
+  .transcendent {
+    @apply bg-red-700
+  }
 }
