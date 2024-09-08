@@ -1,9 +1,10 @@
-import prisma from "@/lib/db"
+// import prisma from "@/lib/db"
 import Link from "../../../node_modules/next/link"
 
 export default async function Modules() {
 
-    const modules = await prisma.modules.findMany({})
+    let data = await fetch('https://open.api.nexon.com/static/tfd/meta/en/module.json')
+    let modules = await data.json()
 
     return (
         <>
@@ -23,7 +24,7 @@ export default async function Modules() {
                     <>
                             <tr>
                                 <td>
-                                    <Link href={`/modules/${module.module_id}`}>
+                                    <Link href={`/all-modules/${module.module_id}`}>
                                         <div className='flex items-center gap-3'>
                                             <div className="avatar">
                                                 <div className="mask mask-squircle h-20 w-20">
